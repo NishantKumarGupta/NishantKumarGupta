@@ -94,7 +94,10 @@
 </a>
 <a href="https://www.kaggle.com/mewser" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://leetcode.com/_MEWSER_/" target="_blank">
+<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=LeetCode style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 <br />
