@@ -69,8 +69,8 @@
 <br/>  
 
 ## Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=NishantKumarGupta&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantKumarGupta&hide_border=true&layout=compact" style="width: 40%" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=NishantKumarGupta&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantKumarGupta&hide_border=true&layout=compact" style="width: 44%" /></div>
 
 <br/>  
 
