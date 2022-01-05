@@ -1,4 +1,4 @@
-### Namaste, World 👋   
+### Namaste, World 🙏    
 
 ### <div align="center">I'm Nishant, a full-stack developer, who loves solving problems and exploring new technologies!</div>  
   
